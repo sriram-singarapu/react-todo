@@ -1,0 +1,18 @@
+.todoForm {
+  display: flex;
+  justify-content: space-around;
+  width: 450px;
+}
+input {
+  width: 80%;
+  padding: 10px;
+  border-radius: 20px;
+  border: none;
+}
+
+button {
+  border: none;
+  padding: 10px;
+  border-radius: 20px;
+  margin: 0 5px;
+}
